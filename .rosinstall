@@ -1,3 +1,6 @@
 - git:
+    local-name: k9_description
+    uri: git@github.com:k9-robot/k9_description.git
+- git:
     local-name: k9_tts
     uri: git@github.com:k9-robot/k9_tts.git
